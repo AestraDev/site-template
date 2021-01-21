@@ -2,6 +2,7 @@ Welcome to Code of Official developers site
 =================
 ----------------------------------------------------
 **Coded by Aestra and developed by turbo**
+[CLICK HERE 5O GET INTO THE SITE](http://www.developerz.cf)
 
 --------------------------------------------------------
 please support us by developing this site an our server too 
