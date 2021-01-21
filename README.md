@@ -38,3 +38,6 @@ second main content of site
 -------------------
 
 Thanks for your stay and help
+--------
+
+© Copyright by aestra 
