@@ -28,7 +28,7 @@ second main content of site
 
 --------------------------------------
 
-**credits to**
+**OWNERS**
 
 -Aestra
 
