@@ -1,12 +1,12 @@
-Welcome to Code of Official developers site
+This is just an example of site 
 =================
 ----------------------------------------------------
-**Coded by Aestra and developed by turbo**
-[CLICK HERE TO GET INTO THE SITE](http://www.developerz.cf)
+**Coded by Aestra**
+
 
 --------------------------------------------------------
-please support us by developing this site an our server too 
-if you find any bug feel free to contact us
+
+please support us by developing this site.
 
 ---------------------------------------------------
 Your Project
@@ -28,16 +28,22 @@ second main content of site
 
 --------------------------------------
 
+**FEATURES**
+
+* navigation bar
+* simple color to avoid license
+* static site to work in most editors 
+* will provide more feature soon
+
 **OWNERS**
 
 -Aestra
-
--Turbo
 
 
 -------------------
 
 Thanks for your stay and help
+
 --------
 
 © Copyright by aestra 
