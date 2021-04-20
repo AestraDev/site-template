@@ -30,7 +30,8 @@ second main content of site
 
 **FEATURES**
 
-* navigation bar
+
+* responsive navigation bar
 * simple color to avoid license
 * static site to work in most editors 
 * will provide more feature soon
